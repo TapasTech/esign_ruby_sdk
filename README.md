@@ -10,16 +10,12 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'esign_identity'
+gem 'esign_ruby_sdk', git: 'git@github.com:TapasTech/esign_ruby_sdk.git', branch: 'master'
 ```
 
 And then execute:
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install esign_identity
+    $ bundle install
 
 ## Usage
 
